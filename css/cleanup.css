@@ -9,3 +9,6 @@
   border:red;
   display: none;
 }
+#wall .parent{
+  border: 100px red;
+}
