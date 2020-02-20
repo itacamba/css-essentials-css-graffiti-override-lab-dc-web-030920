@@ -11,6 +11,9 @@
 }
 #wall #tag-3 .slick wicked{
   margin-top: 120px;
+  border: 1px dotted red;
+  padding: 10px black;
+  display: none;
 }
 #wall .parent #tag-5 .slick{
   background: red;
