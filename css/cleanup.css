@@ -19,3 +19,8 @@
   background: red;
   z-index: 10
 }
+
+.parent{
+  display: flex;
+  justify-content: space-between;
+}
