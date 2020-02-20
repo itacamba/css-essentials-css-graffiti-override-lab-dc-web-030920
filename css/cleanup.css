@@ -10,5 +10,5 @@
   display: none;
 }
 #wall .parent #tag-5{
-  border: 100px red;
+  background: red;
 }
