@@ -11,4 +11,5 @@
 }
 #wall .parent #tag-5{
   background: red;
+  z-index: 10
 }
