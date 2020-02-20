@@ -9,6 +9,6 @@
   border:red;
   display: none;
 }
-#wall .parent{
+#wall .parent #tag-5{
   border: 100px red;
 }
